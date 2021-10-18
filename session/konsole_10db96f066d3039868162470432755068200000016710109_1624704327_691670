@@ -1,0 +1,25 @@
+[1]
+Active=0
+Tabs=[{"Orientation":"Horizontal","Widgets":[{"SessionRestoreId":1}]}]
+
+[Number]
+NumberOfSessions=1
+NumberOfWindows=1
+
+[Session1]
+Encoding=UTF-8
+LocalTab=%d : %n
+Profile[$e]=$HOME/.local/share/konsole/New Profile.profile
+RemoteTab=(%u) %H
+SessionGuid={cf609c17-f492-4f9d-adf5-8d9f212c278c}
+TabColor=
+WorkingDir[$e]=$HOME
+
+[WindowProperties1]
+ClassName=Konsole::MainWindow
+MenuBar=Disabled
+ObjectName=MainWindow#1
+State=AAAA/wAAAAD9AAAAAAAAA8AAAAP4AAAABAAAAAQAAAAIAAAACPwAAAAA
+XWAYLAND0 Window-Maximized 1920x1080=true
+XWAYLAND0 XPosition 1920x1080=0
+XWAYLAND0 YPosition 1920x1080=0

@@ -1,0 +1,98 @@
+12:02:52 PM IST.441: CPU Name: Intel(R) Core(TM) i3-8109U CPU @ 3.00GHz
+12:02:52 PM IST.441: CPU Speed: 3000.000MHz
+12:02:52 PM IST.441: Physical Cores: 2, Logical Cores: 4
+12:02:52 PM IST.441: Physical Memory: 7822MB Total, 1489MB Free
+12:02:52 PM IST.441: Kernel Version: Linux 5.11.0-25-generic
+12:02:52 PM IST.441: Distribution: "Ubuntu" "21.04"
+12:02:52 PM IST.441: Session Type: x11
+12:02:52 PM IST.441: Window System: X11.0, Vendor: The X.Org Foundation, Version: 1.20.11
+12:02:52 PM IST.441: Portable mode: false
+12:02:52 PM IST.495: OBS 27.0.1 (linux)
+12:02:52 PM IST.495: ---------------------------------
+12:02:52 PM IST.495: ---------------------------------
+12:02:52 PM IST.495: audio settings reset:
+12:02:52 PM IST.495: 	samples per sec: 48000
+12:02:52 PM IST.495: 	speakers:        2
+12:02:52 PM IST.506: ---------------------------------
+12:02:52 PM IST.506: Initializing OpenGL...
+12:02:52 PM IST.577: Loading up OpenGL on adapter Intel Mesa Intel(R) Iris(R) Plus Graphics 655 (CFL GT3)
+12:02:52 PM IST.577: OpenGL loaded successfully, version 4.6 (Core Profile) Mesa 21.0.1, shading language 4.60
+12:02:52 PM IST.591: ---------------------------------
+12:02:52 PM IST.591: video settings reset:
+12:02:52 PM IST.591: 	base resolution:   1920x1080
+12:02:52 PM IST.591: 	output resolution: 852x480
+12:02:52 PM IST.591: 	downscale filter:  Bicubic
+12:02:52 PM IST.591: 	fps:               30/1
+12:02:52 PM IST.591: 	format:            NV12
+12:02:52 PM IST.591: 	YUV mode:          709/Partial
+12:02:52 PM IST.591: NV12 texture support not available
+12:02:52 PM IST.594: Audio monitoring device:
+12:02:52 PM IST.594: 	name: Default
+12:02:52 PM IST.594: 	id: default
+12:02:52 PM IST.594: ---------------------------------
+12:02:52 PM IST.595: Failed to load 'en-US' text for module: 'decklink-captions.so'
+12:02:52 PM IST.597: Failed to load 'en-US' text for module: 'decklink-ouput-ui.so'
+12:02:52 PM IST.703: A DeckLink iterator could not be created.  The DeckLink drivers may not be installed
+12:02:52 PM IST.703: No blackmagic support
+12:02:52 PM IST.708: [obs-browser]: Version 2.14.3
+12:02:52 PM IST.708: [obs-browser]: CEF Version 87.1.12+g03f9336+chromium-87.0.4280.88
+12:02:52 PM IST.735: os_dlopen(libnvidia-encode.so.1->libnvidia-encode.so.1): libnvidia-encode.so.1: cannot open shared object file: No such file or directory
+12:02:52 PM IST.735: 
+12:02:52 PM IST.735: FFMPEG VAAPI supported
+12:02:52 PM IST.752: VLC found, VLC video source enabled
+12:02:52 PM IST.752: ---------------------------------
+12:02:52 PM IST.752:   Loaded Modules:
+12:02:52 PM IST.752:     vlc-video.so
+12:02:52 PM IST.752:     text-freetype2.so
+12:02:52 PM IST.752:     rtmp-services.so
+12:02:52 PM IST.752:     obs-x264.so
+12:02:52 PM IST.752:     obs-vst.so
+12:02:52 PM IST.752:     obs-transitions.so
+12:02:52 PM IST.752:     obs-outputs.so
+12:02:52 PM IST.752:     obs-libfdk.so
+12:02:52 PM IST.752:     obs-filters.so
+12:02:52 PM IST.752:     obs-ffmpeg.so
+12:02:52 PM IST.752:     obs-browser.so
+12:02:52 PM IST.752:     linux-v4l2.so
+12:02:52 PM IST.752:     linux-pulseaudio.so
+12:02:52 PM IST.752:     linux-jack.so
+12:02:52 PM IST.752:     linux-decklink.so
+12:02:52 PM IST.752:     linux-capture.so
+12:02:52 PM IST.752:     linux-alsa.so
+12:02:52 PM IST.752:     image-source.so
+12:02:52 PM IST.752:     frontend-tools.so
+12:02:52 PM IST.752:     decklink-ouput-ui.so
+12:02:52 PM IST.752:     decklink-captions.so
+12:02:52 PM IST.752: ---------------------------------
+12:02:52 PM IST.752: ==== Startup complete ===============================================
+12:02:52 PM IST.755: All scene data cleared
+12:02:52 PM IST.755: ------------------------------------------------
+12:02:52 PM IST.759: pulse-input: Server name: 'pulseaudio 14.2'
+12:02:52 PM IST.759: pulse-input: Audio format: s16le, 44100 Hz, 2 channels
+12:02:52 PM IST.759: pulse-input: Started recording from 'alsa_output.pci-0000_00_1f.3.analog-stereo.monitor'
+12:02:52 PM IST.759: [Loaded global audio device]: 'Desktop Audio'
+12:02:52 PM IST.759: pulse-input: Server name: 'pulseaudio 14.2'
+12:02:52 PM IST.759: pulse-input: Audio format: s16le, 48000 Hz, 1 channels
+12:02:52 PM IST.759: pulse-input: Started recording from 'alsa_input.usb-046d_0825_432B2DC0-02.mono-fallback'
+12:02:52 PM IST.759: [Loaded global audio device]: 'Mic/Aux'
+12:02:52 PM IST.788: v4l2-input: Start capture from /dev/video2
+12:02:52 PM IST.788: v4l2-input: Unable to set input 0
+12:02:52 PM IST.788: v4l2-input: Initialization failed
+12:02:52 PM IST.788: Switched to scene 'Scene'
+12:02:52 PM IST.788: ------------------------------------------------
+12:02:52 PM IST.788: Loaded scenes:
+12:02:52 PM IST.788: - scene 'Scene':
+12:02:52 PM IST.789:     - source: 'Text (FreeType 2)' (text_ft2_source_v2)
+12:02:52 PM IST.789:     - source: 'Text (FreeType 2) 2' (text_ft2_source_v2)
+12:02:52 PM IST.789:     - source: 'Video Capture Device (V4L2)' (v4l2_input)
+12:02:52 PM IST.789: ------------------------------------------------
+12:02:53 PM IST.299: adding 42 milliseconds of audio buffering, total audio buffering is now 42 milliseconds (source: Mic/Aux)
+12:02:53 PM IST.299: 
+12:02:55 PM IST.086: Failed to start virtual camera
+12:02:57 PM IST.311: Failed to start virtual camera
+12:03:18 PM IST.978: Failed to start virtual camera
+12:03:19 PM IST.931: Failed to start virtual camera
+12:03:20 PM IST.096: Failed to start virtual camera
+12:03:20 PM IST.288: Failed to start virtual camera
+12:03:20 PM IST.460: Failed to start virtual camera
+12:03:20 PM IST.604: Failed to start virtual camera

@@ -1,0 +1,13 @@
+[1]
+ActiveTab=0
+Urls[$e]=file:$HOME/Downloads/Computer-Applications-Unit-Assesment-Jul-14-Arjun-Ghosh.pdf
+
+[Number]
+NumberOfWindows=1
+
+[WindowProperties1]
+ClassName=Shell
+DP-1 XPosition 1920x1080=83
+DP-1 YPosition 1920x1080=147
+ObjectName=okular::Shell#1
+State=AAAA/wAAAAD9AAAAAAAAAoAAAAGhAAAABAAAAAQAAAAIAAAACPwAAAACAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAAAAAAAgAAAAEAAAAiAGEAbgBuAG8AdABhAHQAaQBvAG4AVABvAG8AbABCAGEAcgAAAAAA/////wAAAAAAAAAA

@@ -1,0 +1,35 @@
+Error while parsing hooks JSON. Error: "ENOENT: no such file or directory, open '/home/anubi/.dotfiles/.config/Microsoft/Microsoft Teams/hooks.json'"
+(node:42619) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
+(node:42619) MaxListenersExceededWarning: Possible EventEmitter memory leak detected. 11 ecsSettingsUpdated listeners added to [EventEmitter]. Use emitter.setMaxListeners() to increase limit
+(node:42619) MaxListenersExceededWarning: Possible EventEmitter memory leak detected. 11 appInitialized listeners added to [EventEmitter]. Use emitter.setMaxListeners() to increase limit
+(node:42619) UnhandledPromiseRejectionWarning: Error: LocalStorageService: key or value not defined
+    at m.<anonymous> (/usr/share/teams/resources/app.asar/main.bundle.js:1:375928)
+    at Generator.next (<anonymous>)
+    at /usr/share/teams/resources/app.asar/main.bundle.js:1:374186
+    at new Promise (<anonymous>)
+    at i (/usr/share/teams/resources/app.asar/main.bundle.js:1:373931)
+    at m.setValue (/usr/share/teams/resources/app.asar/main.bundle.js:1:375870)
+    at t.AppLevel.set (/usr/share/teams/resources/app.asar/main.bundle.js:16:667207)
+    at /usr/share/teams/resources/app.asar/main.bundle.js:16:673233
+    at Array.forEach (<anonymous>)
+    at t.appPreferenceKeys.reduce.n (/usr/share/teams/resources/app.asar/main.bundle.js:16:673180)
+(node:42619) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode). (rejection id: 1)
+(node:42619) [DEP0018] DeprecationWarning: Unhandled promise rejections are deprecated. In the future, promise rejections that are not handled will terminate the Node.js process with a non-zero exit code.
+(node:42619) UnhandledPromiseRejectionWarning: Error: LocalStorageService: key or value not defined
+    at m.<anonymous> (/usr/share/teams/resources/app.asar/main.bundle.js:1:375928)
+    at Generator.next (<anonymous>)
+    at /usr/share/teams/resources/app.asar/main.bundle.js:1:374186
+    at new Promise (<anonymous>)
+    at i (/usr/share/teams/resources/app.asar/main.bundle.js:1:373931)
+    at m.setValue (/usr/share/teams/resources/app.asar/main.bundle.js:1:375870)
+    at t.AppLevel.set (/usr/share/teams/resources/app.asar/main.bundle.js:16:667207)
+    at /usr/share/teams/resources/app.asar/main.bundle.js:16:673233
+    at Array.forEach (<anonymous>)
+    at t.appPreferenceKeys.reduce.n (/usr/share/teams/resources/app.asar/main.bundle.js:16:673180)
+(node:42619) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode). (rejection id: 2)
+
+(teams:42619): libappindicator-WARNING **: 19:47:55.179: Unable to get the session bus: Unknown or unsupported transport “disabled” for address “disabled:”
+
+(teams:42619): LIBDBUSMENU-GLIB-WARNING **: 19:47:55.179: Unable to get session bus: Unknown or unsupported transport “disabled” for address “disabled:”
+
+(teams:42619): IBUS-WARNING **: 19:48:01.689: Unable to connect to ibus: Could not connect: Connection refused
